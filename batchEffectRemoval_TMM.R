@@ -1,4 +1,5 @@
 library(sva)
+library(SummarizedExperiment)
 
 setwd("~/PreProcSEQ-main/8-batchEffect_removal/")
 load("../7-normalizationCounts/tmm/gse_tmm.RData")

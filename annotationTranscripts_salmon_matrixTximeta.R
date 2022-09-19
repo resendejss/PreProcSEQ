@@ -1,6 +1,7 @@
 library(AnnotationHub)
 library(GenomicFeatures)
 library(ensembldb)
+library(SummarizedExperiment)
 
 setwd("~/PreProcSEQ-main/6-annotationTranscripts")
 
