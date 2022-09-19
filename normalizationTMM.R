@@ -1,4 +1,5 @@
 library(edgeR)
+library(SummarizedExperiment)
 
 setwd("~/PreProcSEQ-main/7-normalizationCounts/tmm/")
 load("../../6-annotationTranscripts/matrix_gse_salmon_tximeta_noted.RData")
