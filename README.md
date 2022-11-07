@@ -27,6 +27,8 @@ R packages: [tximport](https://bioconductor.org/packages/release/bioc/html/tximp
 
 In order to simplify the installation process, we provide the `installTools.sh` script, which contains the commands for installing each tool.
 
+Below is a quick start of the pipeline, [click here](https://bookdown.org/jean_souza/PreProcSEQ/) to access the complete pipeline manual.
+
 ## Quick start
 ### I. download the repository and extract the files to your home folder directory
 ```{bash}
